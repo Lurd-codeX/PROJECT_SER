@@ -1,0 +1,4 @@
+#ifndef SER_TEMPHUM_SENSOR_H
+#define SER_TEMPHUM_SENSOR_H
+
+#endif
