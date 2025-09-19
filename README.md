@@ -14,7 +14,7 @@ environment awareness using multiple sensors.
 - **Rain sensor**: Detects rainfall conditions
 
 ## Extra Features
-- **machine learning**: in the long run I intend to add a machine learning feature that would help to study and predict the environment 
+- **machine learning**: in the long run I intend to add a machine learning feature that would help to study and predict the environment based on data gotten from the sensors
 
 ## Structure
 - `SER_joystick.h/.cpp` → Joystick class
@@ -24,11 +24,11 @@ environment awareness using multiple sensors.
 - `SER_rain_sensor.h/.cpp` → Rain sensor class
 - `SmartEnvironmentRover.ino` → Main entry (setup + loop)
 
-## Future Work
-- Integration of ML models for sensor data prediction
-- Expansion to ESP32 for IoT capabilities
+## Probable Future Work
+- Expansion to ESP32 for IoT capabilities this i am not sure of but ill try my best to implement as i have other goals to achieve
 
 ---
 
 Developed by: Falade Temiloluwa Jeremiah  
 Goal: Build modular embedded projects while learning C++/Arduino
+
